@@ -97,7 +97,7 @@
             "axios",
             "cypress"
           ],
-          "siteUrl": null,
+          "siteUrl": "https://teknolojikyemekler-ea.vercel.app/",
           "githubUrl": "https://github.com/ercanaytekn/fsweb-s8-challenge-pizza"
         },
         {
@@ -241,7 +241,7 @@
             "axios",
             "cypress"
           ],
-          "siteUrl": null,
+          "siteUrl": "https://teknolojikyemekler-ea.vercel.app/",
           "githubUrl": "https://github.com/ercanaytekn/fsweb-s8-challenge-pizza"
         },
         {
