@@ -101,17 +101,18 @@
           "githubUrl": "https://github.com/ercanaytekn/fsweb-s8-challenge-pizza"
         },
         {
-          "id": "workintech",
-          "title": "Workintech",
-          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as an NPM package and the git repository makes any type of customization to code and themes possible.",
-          "image": "/images/workintech.jpg",
+          "id": "cio-optik",
+          "title": "CIO Optik",
+          "description": "A website for CIO Optik, an eyewear store in İzmir since 1990. It presents 51 international brands, a style guide and a face-shape based frame guide, with scroll-triggered animations and a dark, luxury design.",
+          "image": "/images/cio-optik-gozluk.jpg",
           "tags": [
-            "react",
-            "redux",
-            "vercel"
+            "html",
+            "css",
+            "javascript",
+            "netlify"
           ],
-          "siteUrl": "https://workintech.com.tr",
-          "githubUrl": "https://github.com/Workintech"
+          "siteUrl": "https://ciooptik.netlify.app/",
+          "githubUrl": null
         }
       ]
     },
@@ -245,17 +246,18 @@
           "githubUrl": "https://github.com/ercanaytekn/fsweb-s8-challenge-pizza"
         },
         {
-          "id": "workintech",
-          "title": "Workintech",
-          "description": "Kullanıcıların hangi çerezleri kabul edip reddedeceğini seçmesini sağlayan, basit, özelleştirilebilir ve kurulumu kolay bir çerez eklentisi. Vanilla JS, SCSS ve Parcel Bundler ile geliştirildi; NPM paketi olarak kullanılabiliyor ve git deposu sayesinde kodda ve temalarda her türlü özelleştirme yapılabiliyor.",
-          "image": "/images/workintech.jpg",
+          "id": "cio-optik",
+          "title": "CIO Optik",
+          "description": "1990'dan beri İzmir'de hizmet veren CIO Optik gözlük mağazası için hazırlanan web sitesi. 51 dünya markasını, stil rehberini ve yüz şekline göre çerçeve önerilerini, kaydırmayla tetiklenen animasyonlar ve koyu, lüks bir tasarımla sunuyor.",
+          "image": "/images/cio-optik-gozluk.jpg",
           "tags": [
-            "react",
-            "redux",
-            "vercel"
+            "html",
+            "css",
+            "javascript",
+            "netlify"
           ],
-          "siteUrl": "https://workintech.com.tr",
-          "githubUrl": "https://github.com/Workintech"
+          "siteUrl": "https://ciooptik.netlify.app/",
+          "githubUrl": null
         }
       ]
     },

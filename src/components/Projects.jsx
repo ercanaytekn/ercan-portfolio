@@ -51,9 +51,11 @@ export function Projects() {
                       {projects.viewSite}
                     </a>
                   )}
-                  <a href={project.githubUrl} target="_blank" rel="noreferrer" className={linkClass}>
-                    {projects.github}
-                  </a>
+                  {project.githubUrl && (
+                    <a href={project.githubUrl} target="_blank" rel="noreferrer" className={linkClass}>
+                      {projects.github}
+                    </a>
+                  )}
                 </div>
               </div>
             </article>
