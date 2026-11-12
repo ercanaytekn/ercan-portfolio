@@ -136,6 +136,11 @@
           "url": "mailto:ercanaytekn@gmail.com"
         }
       ]
+    },
+    "toast": {
+      "pending": "Sending your language preference...",
+      "success": "Language preference saved",
+      "error": "Couldn't reach the server, showing local content"
     }
   },
   "tr": {
@@ -275,6 +280,11 @@
           "url": "mailto:ercanaytekn@gmail.com"
         }
       ]
+    },
+    "toast": {
+      "pending": "Dil tercihin gönderiliyor...",
+      "success": "Dil tercihin kaydedildi",
+      "error": "Sunucuya ulaşılamadı, yerel içerik gösteriliyor"
     }
   }
 }
