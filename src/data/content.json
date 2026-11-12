@@ -1,0 +1,280 @@
+{
+  "en": {
+    "ui": {
+      "switchLang": {
+        "highlight": "TÜRKÇE",
+        "rest": "'YE GEÇ"
+      },
+      "darkMode": "DARK MODE",
+      "lightMode": "LIGHT MODE"
+    },
+    "hero": {
+      "name": "Ercan Aytekin",
+      "title": "I am a Frontend Developer...",
+      "subtitle": "...who likes to craft solid and scalable frontend products with great user experiences.",
+      "image": "/images/hero.jpg",
+      "imageAlt": "Ercan Aytekin",
+      "github": {
+        "label": "Github",
+        "url": "https://github.com/ercanaytekn"
+      },
+      "linkedin": {
+        "label": "Linkedin",
+        "url": "https://www.linkedin.com/in/ercan-aytekin-399650242/"
+      }
+    },
+    "skills": {
+      "title": "Skills",
+      "items": [
+        {
+          "key": "javascript",
+          "name": "JAVASCRIPT"
+        },
+        {
+          "key": "node",
+          "name": "NODE"
+        },
+        {
+          "key": "react",
+          "name": "REACT"
+        },
+        {
+          "key": "vscode",
+          "name": "VS CODE"
+        },
+        {
+          "key": "redux",
+          "name": "REDUX"
+        },
+        {
+          "key": "tailwind",
+          "name": "TAILWIND"
+        }
+      ]
+    },
+    "profile": {
+      "title": "Profile",
+      "basicTitle": "Basic Information",
+      "image": "/images/profile.jpg",
+      "imageAlt": "Ercan Aytekin at work",
+      "info": [
+        {
+          "label": "Birth date",
+          "value": "08.05.2001"
+        },
+        {
+          "label": "City",
+          "value": "İzmir"
+        },
+        {
+          "label": "Education",
+          "value": "Anadolu University"
+        },
+        {
+          "label": "Preferred Role",
+          "value": "Frontend, UI"
+        }
+      ],
+      "aboutTitle": "About Me",
+      "about": [
+        "I'm a frontend developer from İzmir who turns designs into fast, responsive and accessible interfaces with React, Tailwind and modern JavaScript.",
+        "I manage state with Context API and Redux, write custom hooks, connect to APIs with axios and test my components with React Testing Library."
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "viewSite": "View Site",
+      "github": "Github",
+      "items": [
+        {
+          "id": "pizza",
+          "title": "Teknolojik Yemekler",
+          "description": "A single-page pizza ordering app built with React. Users can browse the home page, customize their pizza with size, dough and toppings on a validated order form, and submit it to an API with axios. Navigation between pages is handled with React Router.",
+          "image": "/images/pizza.jpg",
+          "tags": [
+            "react",
+            "react-router",
+            "axios",
+            "cypress"
+          ],
+          "siteUrl": null,
+          "githubUrl": "https://github.com/ercanaytekn/fsweb-s8-challenge-pizza"
+        },
+        {
+          "id": "workintech",
+          "title": "Workintech",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as an NPM package and the git repository makes any type of customization to code and themes possible.",
+          "image": "/images/workintech.jpg",
+          "tags": [
+            "react",
+            "redux",
+            "vercel"
+          ],
+          "siteUrl": "https://workintech.com.tr",
+          "githubUrl": "https://github.com/Workintech"
+        }
+      ]
+    },
+    "footer": {
+      "title": "Send me a message!",
+      "text": "Got a question or proposal, or just want to say hello? Go ahead.",
+      "email": "ercanaytekn@gmail.com",
+      "links": [
+        {
+          "key": "github",
+          "label": "GitHub",
+          "url": "https://github.com/ercanaytekn"
+        },
+        {
+          "key": "linkedin",
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ercan-aytekin-399650242/"
+        },
+        {
+          "key": "email",
+          "label": "Email",
+          "url": "mailto:ercanaytekn@gmail.com"
+        }
+      ]
+    }
+  },
+  "tr": {
+    "ui": {
+      "switchLang": {
+        "highlight": "ENGLISH",
+        "rest": "'A GEÇ"
+      },
+      "darkMode": "KARANLIK MOD",
+      "lightMode": "AYDINLIK MOD"
+    },
+    "hero": {
+      "name": "Ercan Aytekin",
+      "title": "Ben bir Frontend Geliştiriciyim...",
+      "subtitle": "...harika kullanıcı deneyimleri sunan, sağlam ve ölçeklenebilir frontend ürünleri geliştirmeyi seven.",
+      "image": "/images/hero.jpg",
+      "imageAlt": "Ercan Aytekin",
+      "github": {
+        "label": "Github",
+        "url": "https://github.com/ercanaytekn"
+      },
+      "linkedin": {
+        "label": "Linkedin",
+        "url": "https://www.linkedin.com/in/ercan-aytekin-399650242/"
+      }
+    },
+    "skills": {
+      "title": "Yetenekler",
+      "items": [
+        {
+          "key": "javascript",
+          "name": "JAVASCRIPT"
+        },
+        {
+          "key": "node",
+          "name": "NODE"
+        },
+        {
+          "key": "react",
+          "name": "REACT"
+        },
+        {
+          "key": "vscode",
+          "name": "VS CODE"
+        },
+        {
+          "key": "redux",
+          "name": "REDUX"
+        },
+        {
+          "key": "tailwind",
+          "name": "TAILWIND"
+        }
+      ]
+    },
+    "profile": {
+      "title": "Profil",
+      "basicTitle": "Temel Bilgiler",
+      "image": "/images/profile.jpg",
+      "imageAlt": "Çalışırken Ercan Aytekin",
+      "info": [
+        {
+          "label": "Doğum tarihi",
+          "value": "08.05.2001"
+        },
+        {
+          "label": "İkamet Şehri",
+          "value": "İzmir"
+        },
+        {
+          "label": "Eğitim Durumu",
+          "value": "Anadolu Üniversitesi"
+        },
+        {
+          "label": "Tercih Ettiği Rol",
+          "value": "Frontend, UI"
+        }
+      ],
+      "aboutTitle": "Hakkımda",
+      "about": [
+        "Tasarımları React, Tailwind ve modern JavaScript ile hızlı, responsive ve erişilebilir arayüzlere dönüştüren İzmirli bir frontend geliştiriciyim.",
+        "State'i Context API ve Redux ile yönetiyor, custom hook'lar yazıyor, axios ile API'lere bağlanıyor ve componentlerimi React Testing Library ile test ediyorum."
+      ]
+    },
+    "projects": {
+      "title": "Projeler",
+      "viewSite": "Siteyi Gör",
+      "github": "Github",
+      "items": [
+        {
+          "id": "pizza",
+          "title": "Teknolojik Yemekler",
+          "description": "React ile geliştirilmiş tek sayfalık bir pizza sipariş uygulaması. Kullanıcılar ana sayfayı geziyor, doğrulamalı sipariş formunda boyut, hamur ve malzeme seçerek pizzalarını özelleştiriyor ve siparişi axios ile bir API'ye gönderiyor. Sayfalar arası geçiş React Router ile yapılıyor.",
+          "image": "/images/pizza.jpg",
+          "tags": [
+            "react",
+            "react-router",
+            "axios",
+            "cypress"
+          ],
+          "siteUrl": null,
+          "githubUrl": "https://github.com/ercanaytekn/fsweb-s8-challenge-pizza"
+        },
+        {
+          "id": "workintech",
+          "title": "Workintech",
+          "description": "Kullanıcıların hangi çerezleri kabul edip reddedeceğini seçmesini sağlayan, basit, özelleştirilebilir ve kurulumu kolay bir çerez eklentisi. Vanilla JS, SCSS ve Parcel Bundler ile geliştirildi; NPM paketi olarak kullanılabiliyor ve git deposu sayesinde kodda ve temalarda her türlü özelleştirme yapılabiliyor.",
+          "image": "/images/workintech.jpg",
+          "tags": [
+            "react",
+            "redux",
+            "vercel"
+          ],
+          "siteUrl": "https://workintech.com.tr",
+          "githubUrl": "https://github.com/Workintech"
+        }
+      ]
+    },
+    "footer": {
+      "title": "Bana bir mesaj gönder!",
+      "text": "Bir sorun ya da teklifin mi var, yoksa sadece merhaba mı demek istiyorsun? Hemen yaz.",
+      "email": "ercanaytekn@gmail.com",
+      "links": [
+        {
+          "key": "github",
+          "label": "GitHub",
+          "url": "https://github.com/ercanaytekn"
+        },
+        {
+          "key": "linkedin",
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ercan-aytekin-399650242/"
+        },
+        {
+          "key": "email",
+          "label": "E-posta",
+          "url": "mailto:ercanaytekn@gmail.com"
+        }
+      ]
+    }
+  }
+}
